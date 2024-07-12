@@ -1,0 +1,1 @@
+The goal of this project is to make a wristwatch with extremely good power saving capabilities and OLED dysplay. At the current stage I have created the schematic and logic approximation. The next step is to make a prototypa and try implementing the code.
